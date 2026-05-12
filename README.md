@@ -7,7 +7,7 @@
 <br/>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishicodeforlife1998@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishikant-singh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishikant-singh-97588a19b/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rishicode-life)
 [![Location](https://img.shields.io/badge/Hyderabad,_India-informational?style=for-the-badge&logo=googlemaps&logoColor=white)](https://www.google.com/maps/place/Hyderabad)
 
@@ -130,7 +130,7 @@ UIET, Kurukshetra University · CGPA: **8.0 / 10**
 
 📧 [rishicodeforlife1998@gmail.com](mailto:rishicodeforlife1998@gmail.com) &nbsp;|&nbsp;
 📞 +91-8210510181 &nbsp;|&nbsp;
-💼 [LinkedIn](https://www.linkedin.com/in/rishikant-singh)
+💼 [LinkedIn](https://www.linkedin.com/in/rishikant-singh-97588a19b/)
 
 </div>
 
